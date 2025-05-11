@@ -1,5 +1,5 @@
 # CanaryTokensToSentinel
-Bring CanaryTokens Into Sentinel. Article to Follow!
+Bring CanaryTokens Into Sentinel. [Article Link](https://www.linkedin.com/pulse/canarytokens-sentinel-logic-apps-jay-kerai-rezde)
 
 This version has notable improvements compared to the original.
 
