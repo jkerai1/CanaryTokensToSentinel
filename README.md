@@ -1,5 +1,7 @@
 # CanaryTokensToSentinel
-Bring CanaryTokens Into Sentinel. [PENDING Article Link](TBA)
+Bring CanaryTokens Into Sentinel. 
+
+[Article Link](https://www.linkedin.com/pulse/canarytokens-sentinel-logic-apps-legacy-method-jay-kerai-wtqqe)
 
 This logic app version has notable improvements compared to the original posted to Microsoft's Github. The logic app uses the legacy log collector, which is to be depreciated soon.  
 
